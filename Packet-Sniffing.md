@@ -8,13 +8,9 @@
 
 ![Alt text](https://github.com/Funniest/Packet-Sniffing/blob/master/img/packet.PNG)
 
-이러한 TCP/IP 헤더는 아래와 같습니다.
+이러한 TCP/IP 프로토콜은 아래 그림과 같습니다
 
-(다른 헤더들은 소스 참조)
-
-```
-
-```
+![Alt text](https://github.com/Funniest/Packet-Sniffing/blob/master/img/OSI_7PNG)
 
 이번해 해볼 것은 WinPcap을 이용하여, 간단한 패킷 스니핑을 하는 프로그램을 블로그를 보며 공부해보았습니다.
 
