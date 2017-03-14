@@ -8,7 +8,7 @@
 
 ![Alt text](https://github.com/Funniest/Packet-Sniffing/blob/master/img/packet.PNG)
 
-이러한 TCP/IP 프로토콜은 아래 그림과 같습니다
+TCP/IP 프로토콜과 OSI 7계층을 보면 아래 그림과 같이 통신합니다.
 
 ![Alt text](https://github.com/Funniest/Packet-Sniffing/blob/master/img/OSI_7PNG)
 
