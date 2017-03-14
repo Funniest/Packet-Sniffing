@@ -6,7 +6,7 @@
 
   인터넷과 같이 통신하게 된다면 아래 그림처럼 패킷이 오고가는데, 이러한 통신 정보들을 스니퍼에서 몰래 볼 수 있습니다.
 
-![Alt text](https://github.com/Funniest/HttpServer/blob/master/img/HTTP_SERVER.PNG)
+![Alt text](https://github.com/Funniest/Packet-Sniffing/blob/master/img/packet.PNG)
 
 이러한 TCP/IP 헤더는 아래와 같습니다.
 
